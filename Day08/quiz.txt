@@ -1,0 +1,5 @@
+Hello, this is a test file.
+Python is great for coding.
+This file contains multiple lines.
+Search for a word in this file.
+Python is very popular.
