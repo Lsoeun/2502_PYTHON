@@ -1,0 +1,3 @@
+- 파이썬 Day01 질문사항 - https://chambray-polonium-827.notion.site/Day01-159ac6a383ea80e1b57eece0b967ba34 <br>
+- 파이썬 Day02 질문사항 - https://chambray-polonium-827.notion.site/Day02-1a0ac6a383ea801181f0f6baadbc959a <br>
+- 파이썬 Day03 질문사항 - https://chambray-polonium-827.notion.site/Day03-1a2ac6a383ea8065bce7e67c77d1545d <br>
