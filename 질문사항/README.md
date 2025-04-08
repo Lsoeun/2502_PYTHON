@@ -10,6 +10,7 @@
 - 파이썬 Day11 질문사항 - https://chambray-polonium-827.notion.site/Day11-1b6ac6a383ea80368648f05b11781dae <br>
 - 파이썬 Day12 질문사항 - https://chambray-polonium-827.notion.site/Day12-1bbac6a383ea80e58231d7dd2fa3d326 <br>
 - 파이썬 Day13 질문사항 - https://chambray-polonium-827.notion.site/Day13-1bdac6a383ea80de8a3ff18dd5de04da <br>
+- 파이썬 Day18 질문사항 - https://chambray-polonium-827.notion.site/Day19-198ac6a383ea8040b114fdc260019a27 <br>
 
 
 - 추가 자료(함수와 메서드) - https://chambray-polonium-827.notion.site/164ac6a383ea8070b512f24d4253a22c <br>
